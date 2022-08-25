@@ -1,4 +1,4 @@
-/* Variables */
+
 :root {
 	--primary: #EA40A4;
 	--business: #3a82ee;
@@ -13,9 +13,9 @@
 	--business-glow: 0px 0px 4px rgba(58, 130, 238, 0.75);
 	--personal-glow: 0px 0px 4px rgba(234, 64, 164, 0.75);
 }
-/* End of Variables */
 
-/* Resets */
+
+
 * {
 	margin: 0;
 	padding: 0;
@@ -30,7 +30,7 @@ input:not([type="radio"]):not([type="checkbox"]), button {
 	background: none;
 	cursor: initial;
 }
-/* End of Resets */
+
 
 body {
 	background: var(--light);
